@@ -13,7 +13,17 @@
 03-03 nazewnictwo, pole statyczne i pole klasy
 03-04 rzutowanie cast
 03-05 program expres do kamy skaner wyjątek
-03-06
+04-01 instrukcje sterujące if else
+04-02 operatory logiczne // podwojny && sprawdza najpierw prawą część i jesli jest tru to lewą pojedyńczy zawsze sprawdza obie co może byc problemem jak np przyrównujemy do 0
+      equals ingnoreCase
+04-03 switch  case łączony, switch do stringow
+05_01 tablice
+05_02 tablice wielowymiarowe
+06_01 petla for
+
+
+
+
 
 
 

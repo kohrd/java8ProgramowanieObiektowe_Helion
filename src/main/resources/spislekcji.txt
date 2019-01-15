@@ -2,4 +2,22 @@
 01-02 konfiguracja srodowiska, intelij, jdk w windows
 01-03 code-reformat code
 01-04 komentarze wilelonijkowe, komnetarze dokumentacyjne
+02-01 boolean, byte, short,
+02-02 zmiennoprzecinkowe double float
+02-03 ciągiu znaków string char. prymitywy nie mają raczej metod tak jak obiekty
+02-04 operacje arytmrtyczne dodawnie, mnożenie, dzielenie modulo inkrementacja, przesunięcie bitowe
+02-05 inne zapisy liczb (szesnastkowo)
+02-06 duże liczby i operacje finansowe, BigDecimal, BigInteger
+03-01 stałe zmienne zmienne final
+03-02 zmienne stałe globalne static
+03-03 nazewnictwo, pole statyczne i pole klasy
+03-04 rzutowanie cast
+03-05 program expres do kamy skaner wyjątek
+03-06
+
+
+
+
+
+
 

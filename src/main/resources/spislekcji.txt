@@ -20,6 +20,15 @@
 05_01 tablice
 05_02 tablice wielowymiarowe
 06_01 petla for
+06_02 for each sortowanie bąbelkowe
+06-03 while i  do while
+06-04 break i continue, przerywanie petli zewnętrznej w petlach zagniżdzonych
+06-05 program express do kawy case switch
+07-01 obiektowosc teoria
+
+
+
+
 
 
 

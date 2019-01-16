@@ -23,7 +23,19 @@
 06_02 for each sortowanie bąbelkowe
 06-03 while i  do while
 06-04 break i continue, przerywanie petli zewnętrznej w petlach zagniżdzonych
-06-05 program express do kawy
+06-05 program express do kawy case switch
+07-01 obiektowosc teoria
+07-02 podstawy obiektowosci (w sumie teoria)
+08-01 metody przeciążanie zwracanie za pomocą samego return  SOUTV
+08-02 pola klasy, pola statyczne dostępne poza obiektami
+08-03 widocznośc zmiennych czy w metpodach czy w pętlach
+08-04 program expers do kawy - refaktoring i przerobienie na oop
+
+
+
+
+
+
 
 
 

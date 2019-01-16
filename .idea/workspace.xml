@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7856b9c-8b2c-491b-9dbd-491707018b71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_02/Main06_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_03/Main_06_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_04/Main06_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_05/Main06_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_01/Main08_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_02/Main08_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_03/Main08_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_04/Main08_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_01/Main_06_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_01/Main_06_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spislekcji.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spislekcji.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spislekcji.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spislekcji.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spislekcji.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spisLekcji.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,26 +20,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spislekcji.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spisLekcji.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="374">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_02.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_04/Main08_04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -83,9 +78,15 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_03/Main_06_03.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_04/Main06_04.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_05/Main06_05.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/spislekcji.txt" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_01.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_02/Main07_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_01/Main08_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_02/Main08_02.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spislekcji.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_03/Main08_03.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spisLekcji.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_04/Main08_04.java" />
       </list>
     </option>
   </component>
@@ -101,8 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,7 +152,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="Java8_OOP_Helion" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP_07_01" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_06_05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java8ProgramowanieObiektowe_Helion" type="b2602c69:ProjectViewProjectNode" />
@@ -163,21 +162,38 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="Java8_OOP_Helion" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP_07_01" type="462c0819:PsiDirectoryNode" />
-              <item name="Main07_02" type="1a9f42e2:ClassTreeNode" />
+              <item name="OOP_08_04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8ProgramowanieObiektowe_Helion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8ProgramowanieObiektowe_Helion" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547647751026" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547651115332" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.Java8_OOP_Helion.OOP_08_04" />
+      <recent name="pl.Java8_OOP_Helion.OOP_08_03" />
+      <recent name="pl.Java8_OOP_Helion.OOP_08_02" />
+      <recent name="pl.Java8_OOP_Helion.OOP_08_01" />
+      <recent name="pl.Java8_OOP_Helion.OOP_07_02" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main06_05">
+  <component name="RunManager" selected="Application.Main08_04">
     <configuration name="Main06_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.Java8_OOP_Helion.OOP_06_02.Main06_02" />
       <module name="java8ProgramowanieObiektowe_Helion" />
@@ -231,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_06_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.Java8_OOP_Helion.OOP_06_01.Main_06_01" />
+    <configuration name="Main08_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.Java8_OOP_Helion.OOP_08_04.Main08_04" />
       <module name="java8ProgramowanieObiektowe_Helion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.Java8_OOP_Helion.OOP_06_01.*" />
+          <option name="PATTERN" value="pl.Java8_OOP_Helion.OOP_08_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main08_04" />
         <item itemvalue="Application.Main06_05" />
         <item itemvalue="Application.Main06_04" />
         <item itemvalue="Application.Main_06_03" />
         <item itemvalue="Application.Main06_02" />
-        <item itemvalue="Application.Main_06_01" />
       </list>
     </recent_temporary>
   </component>
@@ -282,8 +298,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16867469" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17093374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,7 +309,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2367223" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2367223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -300,7 +317,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32947975" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32928678" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -487,32 +504,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_02.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_02/Main07_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_01/Main08_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_02/Main08_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_06_05/Main06_05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spislekcji.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spisLekcji.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="374">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_03/Main08_03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_07_01/Main07_02.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_08_04/Main08_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

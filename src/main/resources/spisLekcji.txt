@@ -45,6 +45,13 @@
       protected dostęp z danego package i klas dziedziczący po dane klasie
 09-06 rzutowanie obiektów
       sprawdzanie czy da sie rzutować
+10-01 klasa abstrakcyjna tylko do dzoedziczenia
+      metody abstrakcyjne nie mają implementacji w klasie (mają tylko nazwę i sa w klasie nadrzędnej
+      sa przeznaczone do dziedziczenia. wszytskie metody zaimplementowane w klasie abstrakcyjnej muszą być
+      napisane w klasach dziedziczących po abstrakcyjnej
+      getClass().getSimpleName()
+10-02 interfejsy
+
 
 
 

@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7856b9c-8b2c-491b-9dbd-491707018b71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_01/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_02/Main09_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_02/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_02/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_02/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_03/Main09_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_03/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_03/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_03/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_04/Main09_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_04/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_04/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_04/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_06/Main09_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/java8ProgramowanieObiektowe_Helion.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_06_05/Main06_05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_07_02/Main07_02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_08_01/Main08_01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_08_02/Main08_02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_08_03/Main08_03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_08_04/Main08_04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_01/Main09_01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_01/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_02/Main09_02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_02/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_02/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_02/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_03/Main09_03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_03/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_03/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/Java8_OOP_Helion/OOP_09_03/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_01/Main09_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_01/Main09_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spisLekcji.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spisLekcji.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spisLekcji.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spisLekcji.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,17 +17,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spisLekcji.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            <state relative-caret-position="391">
+              <caret line="50" column="56" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_06/Main09_06.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/shapes/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="91" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#309#310#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/shapes/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/Main10_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,10 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_02_01/Main02_01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_02_02/Main02_02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_02_03/Main_02_03.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_02_04/Main02_04.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_02_05/Main_02_05.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_02_06/Main02_06.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_03_01/Main03_01.java" />
@@ -131,8 +120,12 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_05/shapes/Square.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_05/Main09_05.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_05/shapes/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/spisLekcji.txt" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_06/Main09_06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/Main09_05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/Main10_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/shapes/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spisLekcji.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/shapes/Rectangle.java" />
       </list>
     </option>
   </component>
@@ -194,6 +187,27 @@
               <item name="java8ProgramowanieObiektowe_Helion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8_OOP_Helion" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_10_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8ProgramowanieObiektowe_Helion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8ProgramowanieObiektowe_Helion" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8_OOP_Helion" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_10_01" type="462c0819:PsiDirectoryNode" />
+              <item name="shapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8ProgramowanieObiektowe_Helion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8ProgramowanieObiektowe_Helion" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -204,7 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547731633938" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547734131476" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -219,11 +233,11 @@
       <recent name="pl.Java8_OOP_Helion.OOP_08_02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01" />
       <recent name="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_05" />
       <recent name="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_04" />
       <recent name="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_03" />
       <recent name="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion" />
-      <recent name="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_02" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -331,7 +345,7 @@
     <frame x="0" y="0" width="1366" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17319277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17319277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -340,7 +354,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26504064" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26504064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,42 +374,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_01_02/Main01_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_01_03/Main01_03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_01_04/Main01_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_02_01/Main02_01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -794,17 +772,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spisLekcji.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/shapes/Square.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_06/Main09_06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="91" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/Main10_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spisLekcji.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="50" column="56" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/shapes/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_10_01/shapes/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

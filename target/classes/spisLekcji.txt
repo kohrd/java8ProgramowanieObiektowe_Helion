@@ -29,7 +29,26 @@
 08-01 metody przeciążanie zwracanie za pomocą samego return  SOUTV
 08-02 pola klasy, pola statyczne dostępne poza obiektami
 08-03 widocznośc zmiennych czy w metpodach czy w pętlach
-08-04 program expers do kawy - refaktoring i przerobienie na oop
+08-04 program expers do kawy - refaktoring i przerobienie na oop  // TEGO NIE ROBIŁEM
+09-01 konstruktor - z parametrami i bez przeciążanie konstruktora,
+      gettery i settery dla pół prywatnych, finalize do niszczenia obiektów
+09-02 dziedziczenie, nadpisywanie, override
+      kod wspólny wyrzucamy do klas bazowych
+09-03 metoda super wywołuje metody z klasy nadrzędnej, super mozna dopisac do metody overrajdowanej
+09-04 blokowanie dziedziczenia i final
+      w javie klasy sa domyślnie otwarte na dziedizczenie blokowanie dziedizczenia poprzez final
+      tak samo mozemy blokowac metody przed override poprzez final
+09-05 enkapsulacja i widoczność pół zmiennych
+      public widoczny z zewnątrz
+      paketowy dostpene w package
+      private dostępne tylko w danej klasie, dostęp do pół przez gettery i settery
+      protected dostęp z danego package i klas dziedziczący po dane klasie
+09-06 rzutowanie obiektów
+
+
+
+
+
 
 
 

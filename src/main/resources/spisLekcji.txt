@@ -50,7 +50,15 @@
       sa przeznaczone do dziedziczenia. wszytskie metody zaimplementowane w klasie abstrakcyjnej muszą być
       napisane w klasach dziedziczących po abstrakcyjnej
       getClass().getSimpleName()
+      klasy abstrakcyjne zbierają części wspólne klas dziedziczących
+      łączą obiekty pod względem dziedziczenia łączą punkty wspólne klas
 10-02 interfejsy
+      klasa moze dziedziczyć po jednej klasie a interefejsów można implementować kilka
+      metody w interefejscie musz ą byc publiczne i powinny być wykorzystywane w aplikacji na zewnątrz
+      w metodach interefejsu można dopisac do metod podstwowe implementacje
+      trzeba tylko przed metodami dodac słówo default
+10-03 filozofia oop
+
 
 
 

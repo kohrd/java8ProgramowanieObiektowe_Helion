@@ -113,7 +113,7 @@
        statyczne anonimowe i inne klasy wewnętrzne
 13-02  klasy anonimowe mające tylko jedną instancję  // NIEDOKOŃCZONE
 
-14-01  program obiektowy
+14-01  program obiektowy model przechowuje dane
 
 
 

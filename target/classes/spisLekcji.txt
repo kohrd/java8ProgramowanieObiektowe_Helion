@@ -74,7 +74,19 @@
                                       poziomowych modułów
        DRY: do not repeat yourself - refactoring
        KISS Keep it short and Simple
-10-05  kolekcje arrayList, linkeList
+10-05  kolekcje arrayList, linkeList (jest troche szybsza przy dodawnaiu i usuwaniu)
+       , primityvy opakowane w obiekt a więc int - Integer
+       w listach moga być powtórzenia
+11-01  set hashSet set to zbiór i nie można tam dodac dwóch takich samych elementów
+       nie ma powtórzeń
+11-02  map czyli pythonowy słownik (Key : Value) klucz musi byc unikalny
+11-03  equals i hashcode porównianie obiektów ale raczej ciężki temat
+12-01  wyjątki try catch finally
+12-02  zarządzanie pamięcią
+12-03  String w pamięci, porównywanie stringów, łączenie sringów
+       stringBuilder i stringBuffer różnia się obsługa wielowątkowości buffer obsługuje
+
+
 
 
 

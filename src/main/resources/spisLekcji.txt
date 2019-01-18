@@ -2,34 +2,50 @@
 01-02 konfiguracja srodowiska, intelij, jdk w windows
 01-03 code-reformat code
 01-04 komentarze wilelonijkowe, komnetarze dokumentacyjne
+
+
 02-01 boolean, byte, short,
 02-02 zmiennoprzecinkowe double float
 02-03 ciągiu znaków string char. prymitywy nie mają raczej metod tak jak obiekty
 02-04 operacje arytmrtyczne dodawnie, mnożenie, dzielenie modulo inkrementacja, przesunięcie bitowe
 02-05 inne zapisy liczb (szesnastkowo)
 02-06 duże liczby i operacje finansowe, BigDecimal, BigInteger
+
+
 03-01 stałe zmienne zmienne final
 03-02 zmienne stałe globalne static
 03-03 nazewnictwo, pole statyczne i pole klasy
 03-04 rzutowanie cast
 03-05 program expres do kamy skaner wyjątek
+
+
 04-01 instrukcje sterujące if else
 04-02 operatory logiczne // podwojny && sprawdza najpierw prawą część i jesli jest tru to lewą pojedyńczy zawsze sprawdza obie co może byc problemem jak np przyrównujemy do 0
       equals ingnoreCase
 04-03 switch  case łączony, switch do stringow
+
+
 05_01 tablice
 05_02 tablice wielowymiarowe
+
+
 06_01 petla for
 06_02 for each sortowanie bąbelkowe
 06-03 while i  do while
 06-04 break i continue, przerywanie petli zewnętrznej w petlach zagniżdzonych
 06-05 program express do kawy case switch
+
+
 07-01 obiektowosc teoria
 07-02 podstawy obiektowosci (w sumie teoria)
+
+
 08-01 metody przeciążanie zwracanie za pomocą samego return  SOUTV
 08-02 pola klasy, pola statyczne dostępne poza obiektami
 08-03 widocznośc zmiennych czy w metpodach czy w pętlach
 08-04 program expers do kawy - refaktoring i przerobienie na oop  // TEGO NIE ROBIŁEM
+
+
 09-01 konstruktor - z parametrami i bez przeciążanie konstruktora,
       gettery i settery dla pół prywatnych, finalize do niszczenia obiektów
 09-02 dziedziczenie, nadpisywanie, override
@@ -45,6 +61,8 @@
       protected dostęp z danego package i klas dziedziczący po dane klasie
 09-06 rzutowanie obiektów
       sprawdzanie czy da sie rzutować
+
+
 10-01 klasa abstrakcyjna tylko do dzoedziczenia
       metody abstrakcyjne nie mają implementacji w klasie (mają tylko nazwę i sa w klasie nadrzędnej
       sa przeznaczone do dziedziczenia. wszytskie metody zaimplementowane w klasie abstrakcyjnej muszą być
@@ -76,7 +94,29 @@
        KISS Keep it short and Simple
 10-05  kolekcje arrayList, linkeList (jest troche szybsza przy dodawnaiu i usuwaniu)
        , primityvy opakowane w obiekt a więc int - Integer
-       w listach moga być powtórzenia,
+       w listach moga być powtórzenia
+
+
+11-01  set hashSet set to zbiór i nie można tam dodac dwóch takich samych elementów
+       nie ma powtórzeń
+11-02  map czyli pythonowy słownik (Key : Value) klucz musi byc unikalny
+11-03  equals i hashcode porównianie obiektów ale raczej ciężki temat
+
+
+12-01  wyjątki try catch finally
+12-02  zarządzanie pamięcią
+12-03  String w pamięci, porównywanie stringów, łączenie sringów
+       stringBuilder i stringBuffer różnia się obsługa wielowątkowości buffer obsługuje
+
+
+13-01  klasy wewnętrzne (wewnątrz klasy)
+       statyczne anonimowe i inne klasy wewnętrzne
+13-02  klasy anonimowe mające tylko jedną instancję  // NIEDOKOŃCZONE
+
+14-01  program obiektowy
+
+
+
 
 
 

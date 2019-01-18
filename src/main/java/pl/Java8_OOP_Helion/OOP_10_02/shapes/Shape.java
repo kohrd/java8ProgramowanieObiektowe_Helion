@@ -8,7 +8,7 @@ public abstract class Shape {
 
     }
 
-    abstract int countPerimeter();
+    public abstract int countPerimeter();
 
     abstract int countArea();
 

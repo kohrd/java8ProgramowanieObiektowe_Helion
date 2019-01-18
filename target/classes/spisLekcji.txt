@@ -44,6 +44,41 @@
       private dostępne tylko w danej klasie, dostęp do pół przez gettery i settery
       protected dostęp z danego package i klas dziedziczący po dane klasie
 09-06 rzutowanie obiektów
+      sprawdzanie czy da sie rzutować
+10-01 klasa abstrakcyjna tylko do dzoedziczenia
+      metody abstrakcyjne nie mają implementacji w klasie (mają tylko nazwę i sa w klasie nadrzędnej
+      sa przeznaczone do dziedziczenia. wszytskie metody zaimplementowane w klasie abstrakcyjnej muszą być
+      napisane w klasach dziedziczących po abstrakcyjnej
+      getClass().getSimpleName()
+      klasy abstrakcyjne zbierają części wspólne klas dziedziczących
+      łączą obiekty pod względem dziedziczenia łączą punkty wspólne klas
+10-02 interfejsy
+      klasa moze dziedziczyć po jednej klasie a interefejsów można implementować kilka
+      metody w interefejscie musz ą byc publiczne i powinny być wykorzystywane w aplikacji na zewnątrz
+      w metodach interefejsu można dopisac do metod podstwowe implementacje
+      trzeba tylko przed metodami dodac słówo default
+10-03 filozofia oop
+10-04 dobre zasady programowania oop solid dry kiss
+      SOLID:
+            * Single responsibility - klasa powinna odpowiadac za jedną rzecz -
+                                      jeśli mamy klase która pobiera dane z json i przenosi dane do innego formatu to
+                                      jest ptoblem jesli zmieni nam sie format danych wejsciowych i wyjściowych. klasa nie
+                                      powinna definiowac np. kota i psa. jedna klasa robi jedną rzecz
+            * Open - Closed - kod otwarty na roszerzenie zamknięty na modyfikacje, w klasie można łatwo dodac nowe funkcjonalności
+                              bez wpływania na istniejący kod
+            * podstawienie Liskov -
+            * interface segregation - interfejs powinin robic konkretną rzecz np. wydruk, szczekanie psa,
+                                      jedna specyficzna funkcjonalność, interfejs powinine być wyspecjalizowany
+                                      ponieważ klasa może implementować wiele interfejsów
+            * dependency inversion -  odwrócenie zalezności, wysokopoziomowe moduły nie powinny zależeć od nisko
+                                      poziomowych modułów
+       DRY: do not repeat yourself - refactoring
+       KISS Keep it short and Simple
+10-05  kolekcje arrayList, linkeList
+
+
+
+
 
 
 

@@ -29,7 +29,7 @@ public final class Square extends Shape {
 
     // napisanie metody
     @Override
-    int countPerimeter(){
+    public int countPerimeter(){
         return 4*size;
     }
 }

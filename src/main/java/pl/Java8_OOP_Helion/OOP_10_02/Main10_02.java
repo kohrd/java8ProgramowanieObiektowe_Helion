@@ -18,10 +18,15 @@ public class Main10_02 {
         System.out.println("mySquare = " + mySquare.countArea());
         System.out.println("myRectangle = " + myRectangle.countArea());
 
-        System.out.println("mySquareName = " + mySquare.getName());
-        System.out.println("myRectangleName = " + myRectangle.getName());
-
-        Shape shape = new Rectangle();
+//        System.out.println("mySquareName = " + mySquare.getName());
+////        System.out.println("myRectangleName = " + myRectangle.getName());
+//
+//        Shape shape = new Shape() {
+//            @Override
+//            public String getName() {
+//                return super.getName();
+//            }
+//        };
 
 
 

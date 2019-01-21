@@ -1,6 +1,6 @@
-package pl.Java8_OOP_Helion.OOP_14_01.model;
+package pl.Java8_OOP_Helion.OOP_14.model;
 
-import pl.Java8_OOP_Helion.OOP_14_01.model.exceptions.EmptyBoxException;
+import pl.Java8_OOP_Helion.OOP_14.model.exceptions.EmptyBoxException;
 
 public class Storage {
     // jest to api
@@ -17,7 +17,7 @@ public class Storage {
         fillAll();
     }
 
-    private void fillAll() {
+    public void fillAll() {
         milkBox.fillIt();
         chocolateBox.fillIt();
         coffeBox.fillIt();

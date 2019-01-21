@@ -1,4 +1,4 @@
-package pl.Java8_OOP_Helion.OOP_14_01.model;
+package pl.Java8_OOP_Helion.OOP_14.model;
 
 class MilkBox extends  Box {
 

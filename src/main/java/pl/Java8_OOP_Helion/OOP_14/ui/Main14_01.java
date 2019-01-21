@@ -1,4 +1,4 @@
-package pl.Java8_OOP_Helion.OOP_14_01.ui;
+package pl.Java8_OOP_Helion.OOP_14.ui;
 
 public class Main14_01 {
 

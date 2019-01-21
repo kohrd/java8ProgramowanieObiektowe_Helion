@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7856b9c-8b2c-491b-9dbd-491707018b71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/ChocolateBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/EmptyBoxException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/MilkBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Storage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/CoffeBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/CoffeBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spisLekcji.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spisLekcji.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/EmptyBoxException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/exceptions/EmptyBoxException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Storage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,14 +68,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Storage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="280">
+              <caret line="33" column="52" lean-forward="true" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/EmptyBoxException.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/exceptions/EmptyBoxException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -118,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_01/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_02/Square.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_02/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_09_02/Shape.java" />
@@ -168,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/ChocolateBox.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Box.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/EmptyBoxException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/exceptions/EmptyBoxException.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Storage.java" />
       </list>
     </option>
@@ -272,7 +267,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548063241779" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548064073464" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -845,20 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/MilkBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/ChocolateBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/CoffeBox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -873,7 +854,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/EmptyBoxException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/MilkBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/ChocolateBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/exceptions/EmptyBoxException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -882,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/Java8_OOP_Helion/OOP_14_01/model/Storage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="280">
+          <caret line="33" column="52" lean-forward="true" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
         </state>
       </provider>
     </entry>

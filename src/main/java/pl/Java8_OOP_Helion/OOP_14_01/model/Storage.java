@@ -1,5 +1,7 @@
 package pl.Java8_OOP_Helion.OOP_14_01.model;
 
+import pl.Java8_OOP_Helion.OOP_14_01.model.exceptions.EmptyBoxException;
+
 public class Storage {
     // jest to api
     // w tym magazynku zdefiniowany jest kazdy z boxow
@@ -29,6 +31,19 @@ public class Storage {
         }
     }
 
+    public void getMilk() throws EmptyBoxException {
+        if (!coffeBox.takeProduct()){
+            throw new EmptyBoxException ("mleko");
+
+        }
+    }
+
+    public void getChocolate() throws EmptyBoxException {
+        if (!coffeBox.takeProduct()){
+            throw new EmptyBoxException ("czekolada");
+
+        }
+    }
 
 
 }

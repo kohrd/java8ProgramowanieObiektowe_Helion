@@ -6,7 +6,7 @@ public interface UserInterface {
 
     void showError(String msg);
 
-    void showCoffeeready(String msg);
+    void showCoffeeReady(String msg);
 
     void playSound();
 

@@ -134,6 +134,8 @@ drugi kurs java podstawy "JP_02-02"
 09-07 błędy w deklaracji metod o zmiennej liczbie argumentow
 09-08 konstruktor nazwa kostruktora jest taka sama jak nazwa klasy
 09-09 przeciązanie konstruktora zeby przeciazyc kontruktor trzeba miec kontruktor bezargumentowy zeby miec co przeciazac
+09-10 podstawy dziedziczenia
+
 
 
 

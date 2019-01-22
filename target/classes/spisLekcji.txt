@@ -129,6 +129,8 @@ drugi kurs java podstawy "JP_02-02"
 09-02 getter i setter
 09-03 argumenty metod typy proste
 09-03 argumenty typy referencyjne do obiektów
+09.04 przeciazanie metod
+09-05 metody o zmiennej liczbie argumentow
 
 
 

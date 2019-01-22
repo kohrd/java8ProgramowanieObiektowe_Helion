@@ -7,8 +7,8 @@ public class Pracownik {
     int wyplata;
 
     public Pracownik() {
-        imie = " ";
-        nazwisko = " ";
+        imie = "";
+        nazwisko = "";
         wyplata = 0;
     }
 
@@ -18,4 +18,13 @@ public class Pracownik {
         this.wyplata = wyplata;
     }
 
+
+    @Override
+    public String toString() {
+        return "Pracownik{" +
+                "imie='" + imie + '\'' +
+                ", nazwisko='" + nazwisko + '\'' +
+                ", wyplata=" + wyplata +
+                '}';
+    }
 }

@@ -8,7 +8,7 @@ public class Firma {
         Pracownik pracownik = new Pracownik("Jan", "Kowalski", 3000);
         System.out.println("pracownik.toString() = " + pracownik.toString());
 
-        Szef szef = new Szef();
+        Szef szef = new Szef(123);
 
         szef.imie = "Franek";
         szef.nazwisko = "nowak";

@@ -135,8 +135,14 @@ drugi kurs java podstawy "JP_02-02"
 09-08 konstruktor nazwa kostruktora jest taka sama jak nazwa klasy
 09-09 przeciązanie konstruktora zeby przeciazyc kontruktor trzeba miec kontruktor bezargumentowy zeby miec co przeciazac
 09-10 podstawy dziedziczenia
-09-12 dziedziczenie c.d.
-09-13  słowo this
+09-11 dziedziczenie c.d.
+09-12 słowo this
+09-13 interfejsy to szkielet/wymóg jaki muszą spełniac klasy implementujące dany interfejs
+09-14 deklaracja interfejsu, interfejs moze byc rozszerozyn przez inny interfejs
+      możliwe jest implementowanie wielu interfejsow
+09-15 klasa abstrakcyjna
+
+
 
 
 

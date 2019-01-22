@@ -5,6 +5,16 @@ public class Dane {
     public String imie;
     public int wiek;
 
+    public Dane (){
+        this.imie = "brak imienia";
+        this.wiek = -1;
+    }
+    public Dane(String imie, int wiek){
+        //konstruktor
+        // najpierw wywwoływany automatycznie jest konstruktor nadklasy
+        this.imie = imie;
+        this.wiek = wiek;
+    }
 
     public String getImie() {
         return imie;

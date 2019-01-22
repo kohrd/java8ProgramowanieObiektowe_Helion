@@ -57,5 +57,8 @@ public class Main {
         System.out.println("dodajLiczbyWieleArgumentow() = " + dodajLiczbyWieleArgumentow());
 
         imiona("konrad", "Artur", "Andrzej", "Błażek");
+
+        Dane dane2 = new Dane();
+        System.out.println(dane2.getImie()+" "+dane2.getWiek());
     }
 }

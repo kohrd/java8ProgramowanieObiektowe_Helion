@@ -2,8 +2,8 @@ package pl.Java8_OOP_Helion.JP_09;
 
 public class Dane {
 
-    private String imie;
-    private int wiek;
+    public String imie;
+    public int wiek;
 
 
     public String getImie() {

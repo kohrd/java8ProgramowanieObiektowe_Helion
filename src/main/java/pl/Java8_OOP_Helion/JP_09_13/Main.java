@@ -11,7 +11,6 @@ public class Main {
 
         Rower rower = new Rower();
 
-        List<ZachowaniePojazdu> zachowaniePojazduList = new List<>();
 
     }
 }

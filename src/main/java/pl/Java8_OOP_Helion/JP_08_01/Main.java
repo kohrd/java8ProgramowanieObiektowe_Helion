@@ -25,6 +25,25 @@ public class Main {
         return wynik;
     }
 
+    static void imiona(String... imiona) {
+        int i = 0;
+        for (String imie : imiona) {
+            i++;
+            System.out.println("imie " + i + " to: " + imie);
+
+        }
+
+    }
+
+    static void imiona2(String... imiona) {
+        int i = 0;
+        for (String imie : imiona) {
+            i++;
+            System.out.println("imie " + i + " to: " + imie);
+        }
+
+    }
+
     public static void main(String[] args) {
         Dane dane = new Dane();
         dane.setWiek(7);
@@ -37,5 +56,6 @@ public class Main {
         System.out.println("dodajLiczbe(2, 4,5,6,7,8,56,45,45,45,45,4,54) = " + dodajLiczby(2, 4, 45, 45, 45, 4, 54));
         System.out.println("dodajLiczbyWieleArgumentow() = " + dodajLiczbyWieleArgumentow());
 
+        imiona("konrad", "Artur", "Andrzej", "Błażek");
     }
 }

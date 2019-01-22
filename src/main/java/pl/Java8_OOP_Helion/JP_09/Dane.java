@@ -16,6 +16,11 @@ public class Dane {
         this.wiek = wiek;
     }
 
+    public Dane(String imie){
+        this.wiek = 99;
+        this.imie = imie;
+    }
+
     public String getImie() {
         return imie;
     }

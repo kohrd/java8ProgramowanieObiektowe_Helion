@@ -138,7 +138,31 @@ drugi kurs java podstawy "JP_02-02"
 09-11 dziedziczenie c.d.
 09-12 słowo this
 09-13 interfejsy to szkielet/wymóg jaki muszą spełniac klasy implementujące dany interfejs
-09-14 deklaracja interfejsu
+09-14 deklaracja interfejsu, interfejs moze byc rozszerozyn przez inny interfejs
+      możliwe jest implementowanie wielu interfejsow
+09-15 nie mozna tworzyc instancji klasy abstrakcyjnej
+      klasa abstrakcyjna mogą zaiwerać opis metody wraz z implementacją
+      klasa potomna może rozszerzać jedynie jedną klase abstrakcyjną
+09-16 polimorfizm podstawy
+
+
+
+
+
+
+
+# ####################
+kurs javafx z heliona
+01-01 podstawy
+01-02 niby zrobione ale cos sie fxml nie wczytuje
+01-03 wprowadzenie do sceneBuilder
+
+
+
+
+
+
+
 
 
 
